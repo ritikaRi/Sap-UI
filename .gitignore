@@ -1,0 +1,15 @@
+/mta_archives/
+*.mtar
+.mta
+node_modules
+dist
+package-lock.json
+.che/
+*.zip
+*.vscode
+
+# resources content inside ui_deployer
+mta_cm_ui_deployer/resources
+
+# deployment scripts
+*.sh
